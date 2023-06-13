@@ -1,0 +1,7 @@
+Spotify,Individual,19.90,0
+Spotify,Família,34.90,4
+YouTubePremium,Individual,20.90,0
+YouTubePremium,Família,34.90,4
+Netflix,Individual,39.90,0
+Netflix,Família,55.90,4
+Disney,Família,33.90,5
